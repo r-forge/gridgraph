@@ -2,6 +2,7 @@
 import(grid)
 import(graph)
 import(Rgraphviz)
+importFrom("methods", "is")
 
 export("grid.graph",
        "agopenTrue",
