@@ -26,7 +26,7 @@ graphHeight(graph)
 Ashley Noel Hinton
 }
 \seealso{
-  \code{\link{Ragraph}}
+  \code{\link[Rgraphviz]{Ragraph}}
 }
 \examples{
 gnel <- new("graphNEL",

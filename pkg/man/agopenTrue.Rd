@@ -52,7 +52,7 @@ agopenTrue(graph, name, nodes, edges, kind = NULL, layoutType = "dot",
 }
 \author{Ashley Noel Hinton}
 \seealso{
-  \code{\link{agopen}}
+  \code{\link[Rgraphviz]{agopen}}
 }
 \examples{
 gnel <- new("graphNEL",
